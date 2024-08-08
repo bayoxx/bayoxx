@@ -1,4 +1,7 @@
 #### Hi there, I'm Bayonle (or you can call me Bayo) 👋
+![Guy in front of a computer saying hi](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kIacWWXjfYBFXqIXhIuCXQ.gif)
+ <img align="right" alt="GIF" src="[https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true]https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kIacWWXjfYBFXqIXhIuCXQ.gif" width="500" height="320" />
+ 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
  
 ### I am a Data Analyst, with experience in using tools like SQL, Tableau, Bigquery, Spreadsheet (Excel or Google sheet), and R programming.
