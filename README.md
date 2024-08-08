@@ -19,14 +19,15 @@ Here are info about me:
 
 ### Languages and tools
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
-[<img align="left" alt="BigQuery" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Google_Cloud_Logo.svg" />](https://cloud.google.com/bigquery)
 [<img align="left" alt="Tableau" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />](https://www.tableau.com/)
 [<img align="left" alt="Power BI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />](https://powerbi.microsoft.com/)
 [<img align="left" alt="Excel/Spreadsheet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />](https://www.microsoft.com/en-us/microsoft-365/excel)
 [<img align="left" alt="R Programming" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />](https://www.r-project.org/)
 [<img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" />](https://www.mysql.com/)
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-
+[<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][youtube]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 
 
 
