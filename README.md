@@ -1,22 +1,28 @@
 #### Hi there, I'm Bayonle (or you can call me Bayo) 👋
-
+ <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ 
 ### I am a Data Analyst, with experience in using tools like SQL, Tableau, Bigquery, Spreadsheet (Excel or Google sheet), and R programming.
 
 Here are info about me:
 
 - 🔭 I have a bachelor's degree in Electrical and Electronics Engineering 
-- 🌱 I’m currently studying data analytics at Turing College, Vilniaus, Lithuania.
+- 🌱 I’m currently studying data analytics at Turing College (Vilniaus, Lithuania).
 - 👯 I’m looking to collaborate with other data professionals or work for firms hiring data analysts.
-- 📫 How to reach me:
-Mail: adisabayo50@gmail.com
-Linkedin: https://www.linkedin.com/in/bayonle-yusuff-a17a1621a/?trk=opento_sprofile_details
-X: [@Bayonle_Yusuff](https://x.com/Bayonle_Yusuff)](https://x.com/Bayonle_Yusuff)
-Website: https://bayonleyusuff.carrd.co/#
-- 😄 Pronouns: He/Him
+ - 😄 Pronouns: He/Him
+
+- My portfolio website is [here] (https://bayonleyusuff.carrd.co/#)
+- You can reach out to me via📫:
+[Mail] (adisabayo50@gmail.com)
+[Linkedin] (https://www.linkedin.com/in/bayonle-yusuff-a17a1621a/?trk=opento_sprofile_details)
+ [X: @Bayonle_Yusuff](https://x.com/Bayonle_Yusuff)]
+
+### Languages and tools
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
+[<img align="left" alt="BigQuery" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Google_Cloud_BigQuery_Logo.png" />](https://cloud.google.com/bigquery)
+[<img align="left" alt="Tableau" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />](https://www.tableau.com/)
+[<img align="left" alt="Power BI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />](https://powerbi.microsoft.com/)
+[<img align="left" alt="Excel/Spreadsheet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />](https://www.microsoft.com/en-us/microsoft-365/excel)
+[<img align="left" alt="R Programming" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" />](https://www.r-project.org/)
 
 
-<!--
-**bayoxx/bayoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
--->
