@@ -2,9 +2,6 @@
 
 # I am a Data Analyst, with experience in using tools like SQL, Tableau, Bigquery, Spreadsheet (Excel or Google sheet), and R programming.
 
-<!--
-**bayoxx/bayoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are info about me:
 
 - 🔭 I have a bachelor's degree in Electrical and Electronics Engineering 
@@ -15,5 +12,10 @@ https://bayonleyusuff.carrd.co/#
 https://www.linkedin.com/in/bayonle-yusuff-a17a1621a/?trk=opento_sprofile_details
 [@Bayonle_Yusuff](https://x.com/Bayonle_Yusuff)](https://x.com/Bayonle_Yusuff)
 - 😄 Pronouns: He/Him
+
+
+<!--
+**bayoxx/bayoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 -->
