@@ -10,7 +10,7 @@ Here are info about me:
 - 🌱 I’m currently studying data analytics at Turing College (Vilniaus, Lithuania).
 - 👯 I’m looking to collaborate with other data professionals or work for firms hiring data analysts.
 
-- My portfolio website is [here](https://bayonleyusuff.carrd.co/#)
+
 - You can reach out to me via📫:
 - [Mail](adisabayo50@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/bayonle-yusuff-a17a1621a/?trk=opento_sprofile_details)
