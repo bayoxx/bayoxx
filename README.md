@@ -16,6 +16,8 @@ Here are info about me:
 - [Linkedin](https://www.linkedin.com/in/bayonle-yusuff-a17a1621a/?trk=opento_sprofile_details)
 - [X: @Bayonle_Yusuff](https://x.com/Bayonle_Yusuff)]
 
+Below, you'll see a list of my pinned projects (repositories). Please feel free to explore them!
+
 ### Languages and tools
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
 [<img align="left" alt="Tableau" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />](https://www.tableau.com/)
