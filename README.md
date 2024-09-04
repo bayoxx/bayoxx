@@ -16,7 +16,21 @@ Here are info about me:
 - [Linkedin](https://www.linkedin.com/in/bayonle-yusuff-a17a1621a/?trk=opento_sprofile_details)
 - [X: @Bayonle_Yusuff](https://x.com/Bayonle_Yusuff)]
 
-Below, you'll see a list of my pinned projects (repositories). Please feel free to explore them!
+### Certifications
+●	Google Data Analytics Professional Certificate (Coursera)
+●	Advanced SQL (Kaggle) 
+●	Data Analysis with R programming (Coursera)
+●	Share Data Through the Art of Visualization (Coursera) 
+●	Analyze Data to Answer Questions (Coursera) 
+●	Process Data from Dirty to Clean (Coursera) 	 
+●	Prepare Data for Exploration (Coursera) 
+●	Ask Questions to Make Data-Driven Decisions (Coursera) 
+●	Foundations: Data, Data, Everywhere (Coursera) 
+
+Verify my certification with Credly [here](https://www.credly.com/badges/4ddf8985-ba73-4fff-9abb-bb4ccc0b7b18/public_url)
+
+Below, I've included a list of my pinned projects (repositories). Please feel free to explore them!
+
 
 ### Languages and tools
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/sql/sql.png" />](https://en.wikipedia.org/wiki/SQL)
