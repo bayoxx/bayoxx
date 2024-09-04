@@ -27,7 +27,7 @@ Here are info about me:
 ●	Ask Questions to Make Data-Driven Decisions (Coursera) 
 ●	Foundations: Data, Data, Everywhere (Coursera) 
 
-Verify my certification with Credly [here](https://www.credly.com/badges/4ddf8985-ba73-4fff-9abb-bb4ccc0b7b18/public_url)
+Verify my certification with Credly [here](https://www.credly.com/badges/4ddf8985-ba73-4fff-9abb-bb4ccc0b7b18/public_url).
 
 Below, I've included a list of my pinned projects (repositories). Please feel free to explore them!
 
