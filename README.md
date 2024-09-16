@@ -29,7 +29,7 @@ Here are info about me:
 
 Verify my certification with Credly [here](https://www.credly.com/badges/4ddf8985-ba73-4fff-9abb-bb4ccc0b7b18/public_url).
 
-Below, I've included a list of my pinned projects (repositories). Please feel free to explore them!
+Below, I've included a list of my pinned projects (repositories). You can also check the repository tab to see all my projects. Please feel free to explore them!
 
 
 ### Languages and tools
