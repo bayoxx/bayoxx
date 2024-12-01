@@ -7,7 +7,7 @@
 Here are info about me:
 
 - 🔭 I have a bachelor's degree in Electrical and Electronics Engineering 
-- 🌱 I’m currently studying data analytics at Turing College (Vilniaus, Lithuania).
+- 🌱 I also studyied data analytics at Turing College (Vilniaus, Lithuania).
 - 👯 I’m looking to collaborate with other data professionals or work for firms hiring data analysts.
 
 
