@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kIacWWXjfYBFXqIXhIuCXQ.gif" width="500" height="320" />
  
-### I am a Data Analyst, with experience in using tools like SQL, Tableau, Bigquery, Spreadsheet (Excel or Google sheet), Python and R programming.
+### I am a Data Analyst, with experience in using tools like SQL, Tableau, Flourish, Bigquery, Spreadsheet (Excel or Google sheet), Python and R programming.
 
 Here are info about me:
 
